@@ -16,7 +16,6 @@ makeCacheMatrix <- function(x = matrix()) {
        setinv=setinv,
        getinv=getinv)
 }
-}
 
 ## Getting the result from the cache
 
